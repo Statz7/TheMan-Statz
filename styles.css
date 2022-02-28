@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+body {
+background-color: black;
+padding: 0;
+margin-left: 550px;
+ }
+
+img {position: absolute;} 
+
+
+.earL {
+ 
+  position: absolute;
+  left: 590px;
+  top: 334px;
+  width: 52px;
+  height: 165px;
+  z-index: 2;
+}
+
+
+.nose {
+  position: absolute;
+  left: 782px;
+  top: 360px;
+  width: 104px;
+  height: 181px;
+  z-index: 2;
+}
+
+.head {
+  position: absolute;
+  left: 627px;
+  top: 160px;
+  width: 396px;
+  height: 155px;
+  z-index: 2;
+}
+
+
+.eyeL {
+  position: absolute;
+  left: 700px;
+  top: 365px;
+  width: 64px;
+  height: 46px;
+  z-index: 2;
+}
+
+
+
+.mouth {
+  position: absolute;
+  left: 752px;
+  top: 592px;
+  width: 161px;
+  height: 60px;
+  z-index: 2;
+}
+
+.eyeR {
+  position: absolute;
+  left: 888px;
+  top: 359px;
+  width: 69px;
+  height: 55px;
+  z-index: 2;
+}
+
+.earR {
+  position: absolute;
+  left: 1003px;
+  top: 342px;
+  width: 44px;
+  height: 152px;
+  z-index: 2;
+}
+
+
